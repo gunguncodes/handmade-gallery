@@ -15,14 +15,16 @@
       <h1>Handmade Gallery</h1>
       <p class="subtitle">Welcome back. Please sign in.</p>
 
-      <form class="signin-form">
-        <label>Email</label>
-        <input type="email" placeholder="you@example.com" required>
+      <form class="signin-form" id="signinForm">
+          <label>Email</label>
+          <input type="email" id="email" placeholder="you@example.com">
 
-        <label>Password</label>
-        <input type="password" placeholder="••••••••" required>
+      <label>Password</label>
+          <input type="password" id="password" placeholder="••••••••">
 
-        <button type="submit">Sign In</button>
+       <p class="error-msg"></p>
+
+      <button type="submit">Sign In</button>
       </form>
 
       <p class="footer-text">
@@ -31,5 +33,6 @@
       </p>
     </div>
   </div>
+   <script src="signin.js"></script>
 </body>
 </html>
