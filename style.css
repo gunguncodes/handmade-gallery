@@ -164,6 +164,7 @@ header {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   max-width: 1000px;
   margin: 0 auto;
+  margin-bottom: 1.5rem;
 }
 
 .card {
@@ -194,6 +195,7 @@ header {
   background: #fff0e6;
   padding: 3rem 1rem;
   text-align: center;
+ 
 }
 
 .explore h2 {
