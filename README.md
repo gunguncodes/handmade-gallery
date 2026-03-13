@@ -1,5 +1,8 @@
 # Handmade Gallery
+## Live Demo
+https://gunguncodes.github.io/handmade-gallery/
 
+## Overview
 Handmade Gallery is a web project that showcases handcrafted decorative items designed for special occasions like weddings, Haldi, Mehendi, birthdays, and anniversaries.
 
 The goal of this project is to build a clean gallery-style platform where handmade products can be displayed and eventually sold online.
