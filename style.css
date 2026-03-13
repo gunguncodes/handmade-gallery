@@ -70,13 +70,22 @@ header {
 }
 
 .search-bar {
-  width: 100%;
+  width: 80%;
+  border-radius: 20px;
   display: flex;
   justify-content: center;
+  
 }
 
 .search-bar input {
-  width: 80%;
+  width: 90%;
+  padding: 10px 30px;
+  border-radius: 20px 0 0 20px;
+}
+
+.button{
+  border-radius: 0 20px 20px 0;
+  cursor: pointer;
 }
 
 .hero {
